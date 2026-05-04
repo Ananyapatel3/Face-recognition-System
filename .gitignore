@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+face_model.h5
+training_data/
+*.yml
+*.pkl
